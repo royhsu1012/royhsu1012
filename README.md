@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, I'm Roy 👋
 
 <!--
 **royhsu1012/royhsu1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
