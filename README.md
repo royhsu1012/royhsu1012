@@ -1,5 +1,5 @@
 ## Hi, I'm Roy 👋
-
+---
 <!--
 **royhsu1012/royhsu1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
 
 <br />
-<br />
-
----
 
 ### Languages and Tools:
 #### Front End
@@ -42,12 +39,6 @@ Here are some ideas to get you started:
 #### Data Analysis
 [<img align="left" alt="python" width="22px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/python/python.png" />][website]
 [<img align="left" alt="r" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][website]
-
-
-
-
-
-<br />
 <br />
 
 [website]: https://www.google.com.tw
